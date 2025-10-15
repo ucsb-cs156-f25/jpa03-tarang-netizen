@@ -1,6 +1,6 @@
 # STARTER-jpa03
 
-Running at: <https://ucsb-cs156-f25.github.io/jpa03-tarang-netizen/>
+Running at: <https://jpa03-tarang-netizen.dokku-03.cs.ucsb.edu>
 
 # Configuring GitHub Pages for the documentation
 
